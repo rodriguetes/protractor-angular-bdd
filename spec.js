@@ -12,7 +12,6 @@ browser.ignoreSynchronization = true;
 describe('Pre Compra - Lojas Americanas', function() {
     beforeEach(function() {
         browser.sleep(1000);
-
     });
 
     it('Informar Dados Cadastrais', function(done) {

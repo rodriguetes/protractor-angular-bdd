@@ -77,8 +77,6 @@ var CartPage = function() {
             return value;
         });
 
-        // this.compareTotalProductMoreFreight();
-
     };
 
     this.compareTotalProductMoreFreight = function() {
