@@ -20,4 +20,9 @@ Para rodar o teste basta estar na raiz do projeto e utilizar o seguinte comando:
 protractor conf.js
 ```
 
+###Resultado do teste
 
+```
+https://www.youtube.com/watch?v=EKSXvscOUW8
+```
+[Link Youtube](https://www.youtube.com/watch?v=EKSXvscOUW8)
